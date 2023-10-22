@@ -1,0 +1,41 @@
+body{
+    background-color: #12486B;
+    color: #F5FCCD;
+    text-align: center;
+}
+
+h1{
+    font-family: 'Wallpoet', sans-serif;
+    font-size: 6rem;
+    margin: 30px
+   
+}
+
+p{
+    font-family: 'Silkscreen', sans-serif;
+    font-size: 2rem;
+    margin: 2rem;
+}
+
+img{
+    width: 70%;
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;
+  
+  }
+
+.container{
+    margin: auto;
+    width: 70%;
+}
+footer{
+    margin: 5%;
+    font-family: 'Gruppo', sans-serif;
+}
+.dice{
+    display: inline-block;
+    text-align: center;
+}
